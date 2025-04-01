@@ -29,18 +29,18 @@
     
 <br>
 
-- **Softwares and Tools**:
+- **IDE's**:
 
     ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 <br>
 
 - **Operating System**:
   ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
   
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
